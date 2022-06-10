@@ -1,0 +1,19 @@
+{
+  "name": "consultaresumenes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^5.3.1",
+    "base64topdf": "^1.1.8",
+    "dateformat": "^5.0.3",
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security",
+    "oracledb": "^5.4.0"
+  }
+}
